@@ -1,3 +1,13 @@
+# Participantes
+
+- Julio Rivas
+
+- Luca Torresi
+
+- Maximiliano Nuñez
+
+- David Vitari.
+
 # 🔍 Rick and Morty Character Finder
 
 Una aplicación web sencilla hecha con **Vite + Vanilla JavaScript** para buscar y visualizar personajes de la serie _Rick and Morty_, usando su API oficial.
